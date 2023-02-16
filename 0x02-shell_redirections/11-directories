@@ -1,2 +1,2 @@
-#!/bina/bash
+#!/bin/bash
 find . -type d -not -name '_' | wC-l
